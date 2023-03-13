@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -iR *".js" 
+find . -type f -name "*.js" -delete
