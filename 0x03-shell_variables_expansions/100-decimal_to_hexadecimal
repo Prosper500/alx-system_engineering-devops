@@ -1,2 +1,2 @@
 #!/bin/bash
-alias hex="printf '%x\n'"
+alias hex="printf '%x\n'" | $DECIMAL
